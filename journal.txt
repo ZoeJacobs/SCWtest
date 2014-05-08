@@ -3,3 +3,5 @@ Author: ZJacobs
 Introduction: Details of tidal waves
 Conclusion: sample data 
 References: Wiley 1998 journal paper
+
+Make changes to orginal paper. 
